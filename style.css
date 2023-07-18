@@ -1,0 +1,91 @@
+.first{
+    display: flex;
+    justify-content: space-between;
+  padding: 5px 180px;
+}
+.one{
+    display: flex;
+    justify-content: space-around;
+    gap: 35px;
+    overflow: hidden;
+   
+}
+.two{
+    color: #3A3A3A;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 700;
+width: 243px;
+height: 52.2px;
+
+}
+.naf{
+    color: #3A3A3A;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 600;
+width: 49px;
+height: 34.8px;
+}
+.fis{
+    width: 24px;
+    height: 24px;
+    padding-top: 15px;
+}
+.fiz{
+    width: 36px;
+    height: 36px;
+    padding-top: 15px;
+}
+.btn{
+    border-radius: 25px;
+    display: inline-flex;
+padding: 10px 24px;
+align-items: flex-start;
+color: aliceblue;
+gap: 8px;
+background: #E02C6D;
+align-items: center;
+}
+.tam{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.kib{
+    width: 440px;
+    height: 414px;
+}
+.sha{
+   background-image: url(images/Circle\ design.svg);
+   width: 475px;
+height: 475px;
+border-radius: 475px;
+border: 3px solid var(--brand-purple-100, #F1E4FF);
+}
+.mus{
+    color: #3A3A3A;
+font-family: Poppins;
+font-size: 52px;
+font-weight: 700;
+line-height: 70px; /* 134.615% */
+}
+.fiq{
+    color: #3A3A3A;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 600;
+}
+.sab{
+  margin-top: 200px;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  border-top:  2px solid #F1E4FF;
+  width: 1200px;
+  align-items: center;
+  margin-left: 220px;
+  border-bottom: 2px solid #F1E4FF;
+  padding: 25px 5px;
+  
+}
